@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './navbar.css'
+import './navbar.scss'
 import { MdTravelExplore } from 'react-icons/md'
 import { AiOutlineCloseCircle } from 'react-icons/ai'
 import { CgMenuGridO } from 'react-icons/cg'

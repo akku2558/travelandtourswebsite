@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import './main.css'
+import './main.scss'
 import {HiOutlineClipboardCheck, HiOutlineLocationMarker} from 'react-icons/hi'
 import img1 from './../../assets/bora-bora.jpg'
 import img2 from './../../assets/macchu-picchu.jpg'

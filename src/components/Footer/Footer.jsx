@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import './footer.css'
+import './footer.scss'
 import video2 from './../../assets/video2.mp4'
 import { FiChevronRight, FiSend } from 'react-icons/fi';
 import { MdOutlineTravelExplore } from 'react-icons/md';
